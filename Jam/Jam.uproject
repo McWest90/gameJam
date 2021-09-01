@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "SnapSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa834687594944f5aafe2be8b44ad3f1"
 		}
 	]
